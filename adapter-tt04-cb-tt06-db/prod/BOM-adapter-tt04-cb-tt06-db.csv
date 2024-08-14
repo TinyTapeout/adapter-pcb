@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+1k,"R1,R2",R_0402_1005Metric,C11702
+~,"TT06_CON1,TT06_CON2",FH-00148_PinSocket_2x20_P2.54mm,C2685092
+~,"TT04_CON1,TT04_CON2",PinHeader_2x20_P2.54mm_Vertical_SMD,C3294478

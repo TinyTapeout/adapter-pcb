@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+TT04_CON1,~,FH-00148_PinSocket_2x20_P2.54mm,114.163,-113.0,0.0,bottom
+TT04_CON2,~,FH-00148_PinSocket_2x20_P2.54mm,150.163,-113.0,0.0,bottom
+TT06_CON1,~,PinHeader_2x20_P2.54mm_Vertical_SMD,103.5,-113.0,0.0,top
+TT06_CON2,~,PinHeader_2x20_P2.54mm_Vertical_SMD,143.5,-113.0,0.0,top
